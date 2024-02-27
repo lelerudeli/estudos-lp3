@@ -1,1 +1,9 @@
 git init -  iniciar um repositório 
+
+git status - apresenta o status do repositório
+
+git clone - faz o download de um repositório remoto
+
+git add <nome do arquivo> - adiciona um arquivo para o próximo commit 
+
+git add . - adiciona todos os arquivos (untracked e modified) para o próximo commit 
