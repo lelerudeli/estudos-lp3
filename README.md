@@ -9,3 +9,6 @@ Este repositório tem como objetivo  armazenar e controlar os códigos da discip
 - aula 00 - git e github 
 - aula 01 - Introdução ao Python
 - aula 02 - Estruturas de Controle 
+- aula 03 - Estruturas Condicionais 
+- aula 04 - Operadores Lógicos 
+- aula 05 - Estruturas de Repetição e Exercícios 
