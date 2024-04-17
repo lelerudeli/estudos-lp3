@@ -48,7 +48,10 @@ def forca():
             break
 
     if acertou:
-        print(f"Parabens :D \nVocê acertou restando {chances} chances!!!")
+        print(f"Parabéns :D 
+              \nA palavra era {palavra} 
+              \nVocê acertou restando {chances} chances!!!")
+
         
     else:
         print(f"Acabaram suas chances, você perdeu :( \nA palavra era: {palavra}")
